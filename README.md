@@ -111,7 +111,7 @@ These readings are streamed to the backend for continuous monitoring.
 
 ---
 
-## 📷 Working Prototype
+## Working Prototype
 
 ### LandingPage
 <p align="center">
@@ -247,8 +247,7 @@ This approach minimizes AI hallucinations and ensures medically safe recommendat
 
 ## Team
 
-Pranav Rajput — https://github.com/Pranav-Rajput5
-Parth Sardeshmukh - https://github.com/ParthTimeDEV
-Sumit Rathod — https://github.com/sumit-0306
-Rushant Meshram — https://github.com/rushant22
-
+- **[Pranav Rajput](https://github.com/Pranav-Rajput5)**
+- **[Parth Sardeshmukh](https://github.com/ParthTimeDEV)**
+- **[Sumit Rathod](https://github.com/sumit-0306)**
+- **[Rushant Meshram](https://github.com/rushant22)**
